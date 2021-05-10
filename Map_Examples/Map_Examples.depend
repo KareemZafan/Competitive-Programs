@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589079195 source:c:\users\kareem\desktop\map_examples\main.cpp
+	<iostream>
+	<map>
+

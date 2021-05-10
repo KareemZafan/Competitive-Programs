@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585604641 source:c:\users\kareem\desktop\bignumbertostrings\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+

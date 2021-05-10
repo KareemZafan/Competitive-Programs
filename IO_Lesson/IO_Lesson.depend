@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582032804 source:c:\users\kareem\desktop\io_lesson\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+

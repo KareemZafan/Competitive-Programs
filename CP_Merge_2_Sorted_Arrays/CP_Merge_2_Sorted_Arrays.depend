@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583532199 source:c:\users\kareem\desktop\cp_merge_2_sorted_arrays\main.cpp
+	<iostream>
+	<algorithm>
+	<assert.h>
+

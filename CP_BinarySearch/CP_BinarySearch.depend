@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583366364 source:c:\users\kareem\desktop\cp_binarysearch\main.cpp
+	<iostream>
+	<algorithm>
+	<assert.h>
+

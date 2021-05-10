@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586900668 source:c:\users\kareem\desktop\function_ptr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

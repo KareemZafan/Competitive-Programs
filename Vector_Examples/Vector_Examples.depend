@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588768414 source:c:\users\kareem\desktop\vector_examples\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

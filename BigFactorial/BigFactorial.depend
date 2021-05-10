@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587326028 source:c:\users\kareem\desktop\bigfactorial\main.cpp
+	<iostream>
+	<algorithm>
+

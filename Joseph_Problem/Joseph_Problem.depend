@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585127591 source:c:\users\kareem\desktop\joseph_problem\main.cpp
+	<iostream>
+	<assert.h>
+

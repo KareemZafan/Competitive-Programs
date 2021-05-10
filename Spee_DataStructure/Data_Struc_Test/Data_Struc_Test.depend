@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582376676 source:c:\users\kareem\desktop\data_struc_test\main.cpp
+	<iostream>
+	<stdlib.h>
+

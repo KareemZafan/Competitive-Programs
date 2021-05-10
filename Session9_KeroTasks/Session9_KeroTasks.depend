@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587073244 source:c:\users\kareem\desktop\session9_kerotasks\main.c
+	<stdio.h>
+	<stdlib.h>
+

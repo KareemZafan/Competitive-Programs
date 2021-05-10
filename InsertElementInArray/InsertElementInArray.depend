@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598304231 source:c:\users\kareem\desktop\insertelementinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
